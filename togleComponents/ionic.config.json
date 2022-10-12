@@ -1,0 +1,7 @@
+{
+  "name": "togleComponents",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
