@@ -1,4 +1,27 @@
 https://www.youtube.com/watch?v=WCexAdxVkVw
 plugin google maps ionic
 mapbox services apis
+
+
+
+
+
 https://console.cloud.google.com/apis/library/maps-backend.googleapis.com?project=geolocalizacion-365401&supportedpurview=project
+// obtener ubicaciones predefinidas (array) (villa alemana, valparaiso, etc)
+// duoc punto inicial
+// leer ubicaciones con api json / rutas?????????
+// api json en servicio
+
+//calcular distancias
+
+
+funciona csmmmm
+
+  marcador: string; 
+  
+volverlo metodo con nombre // pasarle dato a variable global para printear la info o /comparar en el json
+    this.map.setOnMarkerClickListener(async (marker) => {
+      let variable = marker ;
+      console.log(variable);
+    })
+  }
