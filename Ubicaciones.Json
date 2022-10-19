@@ -1,0 +1,16 @@
+
+   { "ubicaciones": [
+         {
+            title:"destino",
+            "coordinates":{
+               lat: "-33.035179",
+               lng: "-71.394616",
+            },
+            snippet:"subtitulo"
+         }
+   
+
+      ]
+   }
+
+
